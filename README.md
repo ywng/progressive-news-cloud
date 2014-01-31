@@ -1,4 +1,4 @@
-Progressive-News-Cloud
+Progressive-News-Cloud (D3 Word Cloud Layout)
 ======================
 
 Word Cloud Visualization of Bloomberg Asia News
