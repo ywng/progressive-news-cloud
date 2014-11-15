@@ -3,7 +3,7 @@ Progressive-News-Cloud (D3 Word Cloud Layout)
 
 Word Cloud Visualization of Bloomberg Asia News
 
-http://mktinsight.ywng.cloudbees.net/
+http://ywng-d3apps.rhcloud.com/MktInsight/
 
 It visualises the news articles scrapping from Bloomberg website: http://www.bloomberg.com/news/asia/
 
